@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/cybercoretech/apexdaemon/actions/workflows/ci.yml"><img src="https://github.com/cybercoretech/apexdaemon/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/cybercoretech/apexdaemon/actions/workflows/release.yml"><img src="https://github.com/cybercoretech/apexdaemon/actions/workflows/release.yml/badge.svg" alt="Release"></a>
-  <a href="https://github.com/cybercoretech/apexdaemon/releases"><img src="https://img.shields.io/github/v/release/cybercore-tech/apexdaemon?label=latest%20release&color=F4B35E" alt="Latest release"></a>
+  <a href="https://github.com/cybercoretech/apexdaemon/releases"><img src="https://img.shields.io/github/v/release/cybercoretech/apexdaemon?label=latest%20release&color=F4B35E" alt="Latest release"></a>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ auto_push = false
 interval_secs = 3600
 watch_ci = true
 workflow = "ci.yml"
-repositories = ["cybercore-tech/apexdaemon"]
+repositories = ["cybercoretech/apexdaemon"]
 notify_success = false
 ```
 
