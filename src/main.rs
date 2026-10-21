@@ -13,7 +13,7 @@ use std::time::Duration;
 #[derive(Parser, Debug)]
 #[command(
     name = "apexdaemon",
-    version = "0.1.0",
+    version,
     about = "Plugin-style background automation: theme sync, fleet health, security watch, vault backup, repo housekeeping, dotfiles doctor, profiles, validation"
 )]
 struct Args {
